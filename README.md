@@ -28,14 +28,14 @@ Periodically, a new version of the WSDL will be released at:
 
 * http://lite.realtime.nationalrail.co.uk/OpenLDBSVWS/
 
-This code is written for version 2017-10-01.  To update it to use a
+This code is written for version 2021-11-01.  To update it to use a
 later version, edit `getDepartureBoardExample.py` and change the `WSDL`
 variable.  
 
 Support
 -------
 
-This code has been tested on Python 3.8.2.
+This code has been tested on Python 3.10.4.
 
 For support and questions with using the OpenLDBSVWS, please use the
 forum at the following URL:
